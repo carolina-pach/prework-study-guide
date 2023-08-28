@@ -1,13 +1,9 @@
 # prework-study-guide
-# Prework Study Guide 
+# Study Guide Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-My motivation for this webpage was to storer all the learning and important points I have learned yhrououth the prewrok of the coding bootcamp, so I can access them as efficient and fast as possible. It also works as a study method to memorize the basices of thre programming language and Git hub. It s a facilitator for new bootcamp students to revisit their notes in a organized and dynamic manner.  
-In this project I learned how different programming languages work collaborately to create what we see as users in a webpage.
-
+My motivation for this webpage was to store all the learning and important points I have learned throughout the prework of the coding Bootcamp, so I can access them as efficiently and fast as possible. It also works as a study method to memorize the basics of the programming language and Git hub. It's a facilitator for new Bootcamp students to revisit their notes in an organized and dynamic manner.  In this project, I learned how different programming languages work collaboratively to create what we see as users in a webpage.
 
 ## Table of Contents (Optional)
 
